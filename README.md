@@ -5,7 +5,8 @@ Sentiment analysis is also known as opinion mining, an area of natural language 
 
 For the purpose of this project, real time tweets and trending hashtags are streamed using Twitter's API by
 <ol>
-<li> Creating a developer account on twitter to allow access to tweets and unique credentials are generated to give user permission to stream tweets</li>
+<li> Creating a developer account on twitter to allow access to tweets </li>
+ <li>Unique credentials are generated to give user permission to stream tweets</li>
 <li>Live-streaming tweets based on trending hashtags</li>
 </ol>
  
